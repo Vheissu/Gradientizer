@@ -6,6 +6,8 @@ For some reason jQuery out of the box doesn't make it easy to add gradients to e
 
 There are future plans such as feature detection and support for more than 2 gradient colours such as being able to specify a third colour showing at 75% of the gradient. You can easily code this in yourself if you need it, but at present this plugin doesn't support it.
 
+The Gradientizer plugin relies on CSS3 gradients, so not all browsers support these and will fallback to a flat colour if not supported. There is no support for browsers that do not support CSS3 gradients and never will be, so if this is a concern then you are in the wrong neighbourhood boy and this plugin isn't fo' you.
+
 ## Example Usage
 
 Ensure you have included jQuery first before using Gradientizer.
