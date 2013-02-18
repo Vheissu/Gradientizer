@@ -9,7 +9,7 @@
  * License:  MIT Licence 
  *           http://www.opensource.org/licenses/mit-license.php
  * 
- * Copyright (c) 2012 Dwayne Charrington.
+ * Copyright (c) 2013 Dwayne Charrington.
  *
  * Simple usage:
  *
