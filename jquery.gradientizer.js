@@ -60,8 +60,6 @@
         return this.each(function() {
             var $this = $(this);
 
-            console.log(createCssString());
-
             switch (options.direction) {
 
                 case 'vertical':
